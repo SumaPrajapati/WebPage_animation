@@ -1,0 +1,144 @@
+
+.grad{
+    /*height: 1000px; */
+   
+    background:darkslateblue;
+    background: linear-gradient( to right, darkslateblue, purple);
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+.cont_M{
+    max-width: 125rem; 
+    margin: auto;
+   /* padding-left:20px; */
+   
+   /* background-color: greenyellow;*/
+
+    height: 100%;
+}
+
+.cont1{
+
+    width: 40%;
+    float: left;
+    padding-top: 2rem;
+
+  
+   /* background-color: white;*/
+}
+.c_head{
+    margin-bottom: 10rem;
+    padding-left: 6rem;
+    color:white;
+}
+.cont_Lo{
+    padding-left: 6rem;
+
+}
+.cont_H_t{
+    padding-left: 6rem;
+    margin-bottom: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.cont_txt{ 
+    padding-left: 6rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+.cont1_i{
+    width: 60%;
+    float: right;
+    padding-top: 4rem;
+    /*background-color:white;*/
+    height: 100%;
+}
+
+.cont_inn{
+    max-height: 100%;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    zoom: 1;
+}
+
+.cont_r{
+    margin-right: -2rem;
+}
+
+.cont_col1{
+    width: 35%;
+    float: left;
+    padding-right: 3rem;
+    margin-right: 3rem;
+}
+
+.cont_crd{
+    background-color:white;
+    padding: 3rem;
+    padding-bottom: 8rem;
+    padding-top: 4.5rem;
+    position:relative;
+    width: 100%;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 5.5rem;
+   /* margin-left:  2rem;*/
+    transition: all;
+
+
+}
+
+.cont_img{
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    position: absolute;
+    top: 0%;
+    background-size: cover;
+    transform: translateY(-50%);
+    box-shadow: 0 2px 2px 1px;
+
+}
+.cont_ur{
+    position:absolute;
+    bottom: 3.5rem;
+    font-size: 1.6rem;
+    line-height: 1rem;
+
+}
+.cont1_txt{
+ font-size: 1.8rem;
+ font-weight: 300;
+ color : black;
+
+}
+.cont_date{
+    position: absolute;
+    right:3rem;
+    bottom:3.5rem;
+    color: black;
+
+}
+
+
+
+/*.cont_col{
+    width: 35%;
+    float: left;
+    padding-right: 3rem;
+    margin-left: -1rem;
+
+}*/
+
+
+
